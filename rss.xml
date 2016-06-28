@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[fataproductdesign]]></title>
+        <description><![CDATA[fataproductdesign]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 28 Jun 2016 02:03:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Instillation - New Center ]]></title>
+            <description><![CDATA[<article><h1>Instillation - New Center </h1><p>For two years I lived in the heart of Detroit, New Center. This area captivated me with the intense beauty of the city. Each building telling a new story of Detroit’s history all through the Albert Khan’s eyes. It really made it a wonderful place to live. Unfortunately, New Center is suffering to maintain business in the area and that keeps its pretty depressed. This project was more me reaching for some sort of closure to an area I really loved to call home and was forced out of. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e5a656a34d3c76239abbc1cddf1ae303/croprotate.jpg?cropheight=1274&cropwidth=1650&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc1836406-43f9-4ddc-8e57-60958a62a2fd.jpg&x=0&y=0"></article>]]></description>
+            <link>undefinedinstillation-new-center/index.html</link>
+            <guid isPermaLink="false">af14c86e-2f37-4caf-acd9-066631ee7267</guid>
+            <pubDate>Tue, 28 Jun 2016 02:03:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
