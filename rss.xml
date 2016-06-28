@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[fataproductdesign]]></title>
+        <description><![CDATA[fataproductdesign]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 28 Jun 2016 02:56:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Find me in Michigan! ]]></title>
+            <description><![CDATA[<article><h1>Find me in Michigan! </h1><p>Since January I have had the honor and privilege with working for Multiject one of the most fascinating factories I have ever been to. If your looking for me, look no further! Im heading up the graphics department and manage all art coming and going. Couldn't be happier... </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8dedfc330215ad1ccb0d74a4e677eff8/croprotate.png?cropheight=1143&cropwidth=1170&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4839ecfc-3723-4d91-bfa4-effb9de1b796.png&x=0&y=0"></article>]]></description>
+            <link>undefinedfind-me-in-michigan/index.html</link>
+            <guid isPermaLink="false">b7490a64-d744-4e32-9d4c-dc4c321f7f5e</guid>
+            <pubDate>Tue, 28 Jun 2016 02:56:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
