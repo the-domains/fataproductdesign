@@ -1,4 +1,3 @@
-layout_spectrum: 0.30464600352570415
 typography_spectrum: 0.6962636352982372
 color:
   brandStrength: 0.6253681033849716
@@ -11,4 +10,9 @@ color:
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
+layout_spectrum: 0.30464600352570415
+author:
+  name: 'Brian Fata '
+  email: fataproductdesign@gmail.com
 name: fataproductdesign
+title: Concept Design
