@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Concept Design]]></title>
         <description><![CDATA[Concept Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fataproductdesign/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 01:09:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jun 2016 01:17:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fataproductdesign/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Find me in Michigan ]]></title>
+            <description><![CDATA[<article><h1>Find me in Michigan </h1><p>Since January I have had the honor of working for Multiject here in Richmond Michigan. Being able to go from an office sketching to production floor with machines making the products is an awesome feeling. I have taken a position with Multiject since graduation, want to know more about Multiject? Check out http://www.multiject.com/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eab9385f1b37783a600363982faeabcc45cfd7b6.jpg"></article>]]></description>
+            <link>https://www.instagram.com/p/BG9RUH-pl1U/?taken-by=brianfata&amp;hl=en</link>
+            <guid isPermaLink="false">f45bfd6e-357f-419c-8b5d-123f2548f39a</guid>
+            <pubDate>Wed, 29 Jun 2016 01:17:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to my website]]></title>
-            <description><![CDATA[<article><h1>Welcome to my website</h1><p>More will be coming. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/aac3d4b148c1c8a44242c5d5119f121d/croprotate.jpg?cropheight=1970&cropwidth=1908&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fafb99741-f3cd-4cde-8955-69f4fbe18ad1.jpg&x=0&y=0"></article>]]></description>
-            <link>undefinedwelcome-to-my-website/index.html</link>
+            <description><![CDATA[<article><h1>Welcome to my website</h1><p>More will be coming. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a067a9cf6f8bdbe1c89a2e828375c67e082c12b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fataproductdesign/welcome-to-my-website/index.html</link>
             <guid isPermaLink="false">5c9293fc-9501-4bd1-ae57-48db64e8cf67</guid>
             <pubDate>Wed, 29 Jun 2016 01:09:11 GMT</pubDate>
         </item>
